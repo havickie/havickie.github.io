@@ -406,7 +406,11 @@
     color: #bcc3c7;
   }
  
-  
+  .home-btn {
+    
+    margin-left: 7rem;
+    color: transparent;
+  } 
 
     
 
@@ -677,6 +681,7 @@
     font-size: 1rem;
     border-radius: 2px;
   }
+ 
 
   input[type="email"] {
     margin-right: 10px;
