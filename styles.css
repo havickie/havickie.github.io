@@ -391,8 +391,8 @@
   }
 }
 
-
-/*media query for desktop-view*/
+/* 
+media query for desktop-view*/
 @media (min-width: 720px) {
   div.nav-bar {
     display: flex;
