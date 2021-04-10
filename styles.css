@@ -49,7 +49,7 @@
     display: grid;
     place-content: center;
     gap: 0.1rem;
-    width: 22rem;
+    width: 100%;
     height: 18rem;
     margin-bottom: 0.8rem;
     border-radius: 0.2rem;
